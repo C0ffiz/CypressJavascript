@@ -1,4 +1,4 @@
-# 🧪 CypressJavascript
+# 🧪 PHPTravels E2E Test Suite
 
 An end-to-end (E2E) test suite built with **Cypress** and **JavaScript**, developed as a college exercise to practice automated web testing. The tests target the registration page of [PHPTravels](https://phptravels.org/register.php), a demo travel booking platform commonly used for QA practice.
 
